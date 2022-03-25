@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/inlink-project.iml" filepath="$PROJECT_DIR$/.idea/inlink-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ilink-project.iml" filepath="$PROJECT_DIR$/.idea/ilink-project.iml" />
     </modules>
   </component>
 </project>
