@@ -1,0 +1,39 @@
+.bottom {
+    position: absolute;
+    top: 100%;
+    display: flex;
+    width: 1440px;
+    height: 64px;
+}
+
+.text {
+    display: flex;
+    font-family: 'Gilroy Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    padding-left: 80px;
+    padding-top: 24px;
+    padding-bottom: 20px;
+    color: #8A8A8A;
+
+}
+.vk{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.tg{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.instagram{
+padding-left: 5px;
+    padding-right: 5px;
+
+}
+.socials{
+    display: flex;
+    align-items: center;
+    margin-left: 830px
+}
